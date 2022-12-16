@@ -1,0 +1,1 @@
+Haven't disscused code with anybody, just took some references from internet for syntax and exceptional handling.
